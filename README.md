@@ -28,7 +28,8 @@ The dashboard provides insights into sales performance, profit, orders, regional
 ## Project Files
 - Dashboard: Power BI (.pbix) file
 - Dataset: Excel (.xlsx) file
-- Screenshots: Dashboard preview
+- Screenshots: <img width="1275" height="712" alt="retail_sales_dashboard" src="https://github.com/user-attachments/assets/7c6faad1-966b-467a-b3b2-20e2764bec5a" />
+
 ## Objective
 To understand retail business performance through
 data analysis and interactive visualizations.
